@@ -11,13 +11,26 @@
 
 ✈️ Whenever I can I try to travel to discover new places and meet new people! So far I have visited 18 countries like USA, Italy, Sweden, Denmark, Poland, UK or Morocco. I have lived in Spain, France and I am currently living in Finland.
 
+🌍 I am fluent in English and French and a native Spanish speaker.
+
+
+
+
 
 <h2>🏅 Achievements</h2>
 
 - 📝 Bachelor Thesis (score: 10/10): IoT CO2 measurement system for COVID-19 prevention based on LoRaWAN (July 2021)
 - 🏆 Best Academic Curriculum of the 2020/2021 Promotion
 - ⭐ Member of the Spanish Society for Academic Excellence (SEDEA)
+- 👨‍🎓 Huawei Seeds for the Future Student Program (July 2021)
 - 🤝 Volunteer at Slush, where I had an important role in the Pe-Badge Claim team at Airport of Helsinki (November 2022)
+
+
+<h2>🛠️ Skills</h2>
+
+- Languages: C++, Linux, MATLAB
+- Software: VS Code, Wireshark, Arduino IDE, Windows, Microsoft Office 365 (Excel, Power Point...)
+
 <h2></h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
