@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo del Arco Ortiz</h1>
-<h3 align="center">As a passionate and motivated master student in Communications Engineering at EURECOM (France) and Aalto University (Finland), I am passionate about new technologies such as the Internet of Things and mobile communications. I developed my bachelor thesis on an IoT system based on LoRaWAN, and during my double master I gained valuable knowledge on topics such as 5G, electronics and radio communications, as well as entrepreneurship and business management. I am looking forward to learning and discovering new technologies, as well as deepening my knowledge in mobile communications and IoT</h3>
+<h3 align="center">As a passionate and motivated master student in Communications Engineering at EURECOM (France) and Aalto University (Finland), I am passionate about new technologies such as the Internet of Things and mobile communications. I developed my bachelor thesis on an IoT system based on LoRaWAN, and during my double master I gained valuable knowledge on topics such as 5G, electronics and radio communications, as well as entrepreneurship and business management</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
