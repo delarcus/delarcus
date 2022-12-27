@@ -30,6 +30,7 @@
 
 - Languages: C++, Linux, MATLAB
 - Software: VS Code, Wireshark, Arduino IDE, Windows, Microsoft Office 365 (Excel, Power Point...)
+- Hardware: Raspberry Pi, Arduino, ESP8266, ESP32, RAK2245 Hat (Concentrator for LoRaWAN)
 
 <h2></h2>
 <h3 align="left">Connect with me:</h3>
