@@ -26,7 +26,7 @@
 
 <h2>🛠️ Skills</h2>
 
-- Languages: C++, Linux, MATLAB
+- Languages: Python, C++, Linux, MATLAB
 - Software: VS Code, Wireshark, Arduino IDE, Windows, Microsoft Office 365 (Excel, Power Point...)
 - Hardware: Raspberry Pi, Arduino, ESP8266, ESP32, RAK2245 Hat (Concentrator for LoRaWAN)
 
