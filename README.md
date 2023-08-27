@@ -9,8 +9,6 @@
 
 📚 I also love reading books about personal development and Stoicism.
 
-✈️ Whenever I can I try to travel to discover new places and meet new people! So far I have visited 18 countries like USA, Italy, Sweden, Denmark, Poland, UK or Morocco. I have lived in Spain, France and I am currently living in Finland.
-
 🌍 I am fluent in English and French and I am a native Spanish speaker.
 
 
