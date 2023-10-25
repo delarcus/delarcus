@@ -1,11 +1,11 @@
 <h1>Hi there!👋</h1>
 <h2>🚀About Me</h2>
 
-🎓 I am Pablo del Arco Ortiz, a skilled Communication Engineer. I am pursuing a double MSc in Communication Engineering both in EURECOM (France) and Aalto University (Finland), and will graduate in September 2023.
+🎓 I am Pablo del Arco, a skilled telecommunication engineer. I have successfully completed a double MSc in Communication Engineering from both EURECOM (France) and Aalto University (Finland).
 
-👨‍💻 Among the different projects and subjects I have studied, Radio Communications, IoT Systems and Protocols, Intelligent Buildings, Mobile Communications Systems and Machine Learning for Communication Systems, stand out. I am also fascinated by the world of entrepreneurship and Blockchain and Web3.
+👨‍💻 Among the different projects and subjects I have studied, it stands out Radio Communications, IoT Systems and Protocols, Intelligent Buildings, Mobile Communications Systems and Machine Learning For Communication Systems. I am also fascinated by the world of entrepreneurship, Blockchain and Web3.
 
-🎸 Apart from technology, I also like to learn new skills. My main hobbies include acoustic and Spanish guitar, water sports such as surfing, as well as football and tennis.
+🎸 Apart from technology, I also like to learn new skills. My main hobbies include acoustic and Spanish guitar, surfing, football and padel.
 
 📚 I also love reading books about personal development and Stoicism.
 
