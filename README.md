@@ -16,6 +16,7 @@
 
 
 <h2>🏅 Achievements</h2>
+
 - 📝 Master's Thesis (score: 4/5): Design and Evaluation of a LoRaWAN Smart Agriculture System Based on Microsoft Azure (July 2023)
 - 📝 Bachelor's Thesis (score: 10/10): IoT CO2 measurement system for COVID-19 prevention based on LoRaWAN (July 2021)
 - 🏆 Best Academic Curriculum of the 2020/2021 Promotion
