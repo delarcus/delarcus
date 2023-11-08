@@ -24,6 +24,7 @@
 - 🤝 Volunteer at Slush, where I had an important role in the Pe-Badge Claim team at Airport of Helsinki (November 2022)
 
 
+
 <h2>🛠️ Skills</h2>
 
 - Languages: Python, C++, Linux, MATLAB
