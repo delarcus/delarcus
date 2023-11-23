@@ -28,10 +28,13 @@
 
 <h2>🛠️ Skills</h2>
 
-- Languages: Python, C++, Linux, MATLAB
-- Software: VS Code, Docker, Wireshark, Arduino IDE, Windows, Microsoft Office 365 (Excel, Power Point...)
-- Hardware: Raspberry Pi, Arduino, ESP8266, ESP32, RAK2245 Hat (Concentrator for LoRaWAN)
-- Cloud: Azure
+- **Languages**: Python, C++, Linux, Node.js, Flask
+- **DevOps** & Containerization: Docker
+- **Software**: Home Assistant, Node-RED, Nemo Analyze, Wireshark
+- **Hardware**: Raspberry Pi, Arduino, ESP32
+- **Cloud**: Microsoft Azure
+- **Protocols**: MQTT, HTTP, CoAP
+- **Technologies**: 5G, LoRaWAN, NB-IoT
 
 <h2></h2>
 <h3 align="left">Connect with me:</h3>
