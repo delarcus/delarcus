@@ -1,15 +1,15 @@
 <h1>Hi there!👋</h1>
 <h2>🚀About Me</h2>
 
-🎓 I am Pablo del Arco, a skilled telecommunication engineer. I have successfully completed a double MSc in Communication Engineering from both EURECOM (France) and Aalto University (Finland).
+👨‍🎓 Telecommunication engineer with a double MSc in Communication Engineering from EURECOM (France) and Aalto University (Finland), specializing in IoT Systems, Intelligent Buildings and Mobile Communications.
 
-👨‍💻 Among the different projects and subjects I have studied, it stands out Radio Communications, IoT Systems and Protocols, Intelligent Buildings, Mobile Communications Systems and Machine Learning For Communication Systems. I am also fascinated by the world of entrepreneurship, Blockchain and Web3.
+🚀 Passionate about Cloud Computing, IoT technologies and Blockchain.
 
-🎸 Apart from technology, I also like to learn new skills. My main hobbies include acoustic and Spanish guitar, surfing, football and padel.
+🎸 Beyond tech, I like acoustic and Spanish guitar, padel and football.
 
-📚 I also love reading books about personal development and Stoicism.
+📚 Enthusiastic reader of personal development and Stoicism literature.
 
-🌍 I am fluent in English and French and I am a native Spanish speaker.
+🌐 Fluent in English, French, and native Spanish speaker.
 
 
 
