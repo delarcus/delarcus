@@ -1,7 +1,7 @@
 <h1>Hi there!👋</h1>
 <h2>🚀About Me</h2>
 
-👨‍🎓 Graduated from a double MSc in Computer & Communication Engineering from EURECOM (France) and Aalto University (Finland), specializing in IoT Systems, Intelligent Buildings and Mobile Communications.
+👨‍🎓 Graduated with a double MSc in Computer & Communication Engineering from EURECOM (France) and Aalto University (Finland), specializing in IoT Systems, Cloud and Mobile Communications.
 
 🚀 Passionate about Cloud Computing, IoT technologies and Blockchain.
 
