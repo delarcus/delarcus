@@ -32,7 +32,7 @@
 - **DevOps** & Containerization: Docker
 - **Software**: Home Assistant, Node-RED, Nemo Analyze, Wireshark
 - **Hardware**: Raspberry Pi, Arduino, ESP32
-- **Cloud**: Microsoft Azure
+- **Cloud**: AWS, Microsoft Azure
 - **Protocols**: MQTT, HTTP, CoAP
 - **Technologies**: 5G, LoRaWAN, NB-IoT
 
