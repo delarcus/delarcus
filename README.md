@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Double MSc. in Computer & Communication Engineering | Cloud & IoT
 -----------------------------------------------------------------
 
-Graduated with a double MSc in Computer & Communication Engineering from EURECOM (France) and Aalto University (Finland), specializing in IoT Systems, Cloud and Mobile Communications.
+Graduated with a double MSc in Computer & Communication Engineering from EURECOM (France) and Aalto University (Finland), specializing in IoT Systems and Cloud.
 
 * 🌍  I'm based in Helsinki, Finland
 * ✉️  You can contact me at [pablodelarco1@gmail.com](mailto:pablodelarco1@gmail.com)
