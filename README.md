@@ -6,7 +6,7 @@ Cloud System Engineer | Double MSc. in Computer & Communication Engineering
 
 Graduated with a double MSc in Computer & Communication Engineering from EURECOM (France) and Aalto University (Finland), specializing in IoT Systems and Cloud.
 
-* 🌍  I'm based in Helsinki, Finland
+* 🌍  I'm based in Spain
 * ✉️  You can contact me at [pablodelarco1@gmail.com](mailto:pablodelarco1@gmail.com)
 * 🧠  I'm learning AWS, Docker, Kubernetes, Terraform, Jenkins
 * 🤝  I'm open to collaborating on IoT, Cloud and AI
